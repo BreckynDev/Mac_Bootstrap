@@ -31,6 +31,6 @@ echo "Updating brew..."
 brew update
 
 # essentials
-brew bundle --file Brewfile.txt
+brew bundle --file Brewfile
 
 echo "===== Bootstrap complete ====="

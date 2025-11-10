@@ -38,7 +38,7 @@ chmod +x bootstrap.sh
 
 ## Notes
 
-The script installs the essentials, but you can customize it by adding more tools to the **brew install section**.
+The script installs the essentials, but you can customize it by adding more tools to the **brewFile section**.
 
 - Ex: brew install node, brew install mysql, brew install nmap, or brew install --cask docker
 

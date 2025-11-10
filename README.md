@@ -40,6 +40,8 @@ chmod +x bootstrap.sh
 
 The script installs the essentials, but you can customize it by adding more tools to the **brew install section**.
 
+- Ex: brew install node, brew install mysql, brew install nmap, or brew install --cask docker
+
 Running the script multiple times is **safe** — Homebrew and Xcode CLI checks prevent reinstallation.
 
 After installation, all tools are ready to use **immediately**.

@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+set -e
 
 read -p "This will install tools on your machine. Continue? (y/n): " answer
 if [[ $answer != "y" ]]; then

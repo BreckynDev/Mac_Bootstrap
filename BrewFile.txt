@@ -1,0 +1,6 @@
+brew "python"
+brew "git"
+brew "vim"
+brew "htop"
+brew "gcc"
+cask "visual-studio-code"

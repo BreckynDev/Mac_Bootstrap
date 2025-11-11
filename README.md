@@ -46,4 +46,4 @@ Running the script multiple times is **safe** — Homebrew and Xcode CLI checks 
 
 After installation, all tools are ready to use **immediately**.
 
-### Version: 1.0.0 - Nov. 2025
+### Version: 1.0.1 - Nov. 2025
